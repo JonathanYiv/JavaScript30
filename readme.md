@@ -41,3 +41,9 @@ const result = arrayExample.filter(function(arrayElement) {
 4. The `reduce` method condenses an array to one value.
 5. The `map` method takes an array, does something to each element, then returns a new array with the modified elements, with the original array unchanged.
 6. There are two ways to convert a NodeList to an Array. You can use a spread, `[...elements]`, which takes all the elements out of something and put them into an array. Or you can use `Array.from(elements)`.
+
+## Flex Panel Gallery
+
+Nothing learned.
+
+### Type Ahead
