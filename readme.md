@@ -17,3 +17,13 @@ I want to document what I learn throughout the process here.
 1. Chrome DevTools has a little thing you can click to adjust your `transition-timing-function` curve.
 2. `setInterval()` is provided two parameters. The first is the function/expression. The second is the specified interval in milliseconds. It calls the function/expression every specified interval.
 3. Things have origins that you can transform.
+
+## CSS Variables
+
+1. CSS' variables can be updated with JS.
+2. CSS uses `--` for variable declaration. You specify `var(--variable)` for usage.
+3. CSS variables must be attached to an element, of which `:root` is the highest.
+4. The `filter` CSS property applies graphical effects to an element.
+5. `change` is an event.
+6. The `dataset` method can be used on an element to list all the data-attributes of an element.
+7. You can select CSS variables by using the `document` element, accessing `documentElement` which is the root element, accessing style, then setting the property of the CSS variable (`--variableName`).
