@@ -54,3 +54,8 @@ Nothing learned.
 4. Basic search using regex is simpler than I thought.
 
 ### Array Cardio Day 2
+
+1. The `some` method returns true if the condition given is true for any element within the array.
+2. The `every` method returns true if the condition given  is true for all elements within the array.
+3. `find` is like `filter`, except it only returns the first one.
+4. You can use `splice` or `slice` to delete from an array.
