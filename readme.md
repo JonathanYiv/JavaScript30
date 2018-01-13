@@ -47,3 +47,10 @@ const result = arrayExample.filter(function(arrayElement) {
 Nothing learned.
 
 ### Type Ahead
+
+1. Browsers have the 'Fetch API' built in.
+2. Fetching from a URL returns a promise, which you can call `then` on.
+3. You can declare a regex. The second parameter lets you specify options. `g` means a global match. `i` means case-insensitive.
+4. Basic search using regex is simpler than I thought.
+
+### Array Cardio Day 2
